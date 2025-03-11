@@ -1,0 +1,12 @@
+# Logs if I forget the basic codes
+
+## Version
+Miniconda3 py312_24.11.1-0 used
+## libraries added in environment
+The environment was created through mini conda. Installed numpy, matplotlib, pandas, scikit-learn within environment
+- conda create --prefix ./env pandas numpy matplotlib scikit-learn
+## Jupyter Notebook installation
+- conda install jupyter 
+## Simple codes to activate, deactivate environment
+- conda activate \dir\env
+- conda deactivate
